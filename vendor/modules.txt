@@ -1,0 +1,4 @@
+# golang.org/x/crypto v0.38.0
+## explicit; go 1.23.0
+golang.org/x/crypto/pbkdf2
+# crypto/rsa => ./crypto
